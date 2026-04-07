@@ -252,6 +252,8 @@ Reallocate 15–20% of TikTok's budget toward Facebook and Google branded search
 
 ---
 
+![Dashboard](assets/dashboard.png)
+
 ## Author
 
 **Gustavo Emilio Muñoz** · Senior Data Analyst
